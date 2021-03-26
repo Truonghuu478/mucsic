@@ -1,0 +1,14 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+        "deploy": "gh-pages -d dist"
+
+  },
+  "author": "",
+  "homepage": "https://github.com/Truonghuu478/mucsic.git ",
+
+  "license": "ISC"
+}
