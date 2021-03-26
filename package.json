@@ -4,11 +4,9 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-        "deploy": "gh-pages -d dist"
-
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
-  "homepage": "https://github.com/Truonghuu478/mucsic.git ",
-
+  "homepage": "https://github.com/Truonghuu478/mucsic ",
   "license": "ISC"
 }
